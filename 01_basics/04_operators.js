@@ -44,6 +44,7 @@ console.log((2 === 2)); // true
 // Strict Not Equal Operator
 console.log((2 !== 2)); // false
 
+
 // Logical Operator
 
 // Logical AND
